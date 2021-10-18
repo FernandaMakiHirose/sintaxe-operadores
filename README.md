@@ -1,4 +1,11 @@
 # Sintaxe e Operadores
+## Requisitos
+- Terminal
+- IDE
+
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Atividade
 
 - Crie uma função que recebe dois números como parâmetros.
